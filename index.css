@@ -1,0 +1,13 @@
+div {
+    margin: auto;
+    width: 50%;
+    border: 3px double pink;
+    padding: 10px;
+    font-family: 'Abril Fatface', cursive;
+    background-color: #FFFFAE;
+}
+
+footer {
+    font-family: 'Playfair Display', serif;
+    font-size: 4vh;
+}
